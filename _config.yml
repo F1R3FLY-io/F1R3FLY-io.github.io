@@ -19,9 +19,9 @@ people:
     - title: twitter
       url: f1r3flyceo
     - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+      url: https://www.facebook.com/leithaus
+    - title: linkedin
+      url: https://www.linkedin.com/in/lucius-meredith-547645/
 
 - name: Ralph Benko
   pic: 2
@@ -30,20 +30,20 @@ people:
     - title: twitter
       url: thewebster
     - title: facebook
-      url: #
+      url: https://www.facebook.com/thegoldstandard
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/ralph-benko-60052/
 
 - name: Jeff Turner
   pic: 3
   position: Product Manager
   social:
     - title: twitter
-      url: #
+      url: https://twitter.com/composedao
     - title: facebook
       url: #
-    - title: google-plus
-      url: #
+    - title: linkedin
+      url: https://www.linkedin.com/in/composedao/
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
