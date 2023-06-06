@@ -1,5 +1,6 @@
 url: 'https://f1r3fly-io.github.io'
-baseurl: '/f1r3fly-io'
+#baseurl: '/f1r3fly-io'
+baseurl: ''
 
 # Site settings
 title: Concurrency for the People
