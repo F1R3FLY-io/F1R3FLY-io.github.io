@@ -1,0 +1,15 @@
+---
+title: Namespace Logic 
+subtitle: A logic for a reflective higher-order calculus
+layout: default
+modal-id: 8
+date: 2005-12-29
+img: NamespaceLogos.jpeg
+thumbnail: NamespaceLogosThumbnail.jpeg
+alt: image-alt
+project-date: December 2005
+client: ETCS
+category: Technical Paper
+description: In Meredith and Radestock's paper on the rho-calculus it was observed that a theory like the π-calculus, dependent on a theory of names, can be closed, through a mechanism of quoting, so that (quoted) processes provide the necessary notion of names. Here we expand on this theme by examining a construction for a Hennessy-Milner logic corresponding to an asynchronous message-passing calculus built on a notion of quoting. <a href="https://link.springer.com/chapter/10.1007/11580850_19">Full article.</a>
+
+---

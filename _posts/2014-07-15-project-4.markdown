@@ -10,6 +10,6 @@ alt: image-alt
 project-date: January 2023
 client: HackerNoon
 category: Article
-description: The New York Times recently proclaimed  A New Chat Bot Is a ‘Code Red’ for Google’s Search Business. It describes Google’s “dread” of interfaces based on the species of artificial intelligence called large language models (LLM), such as ChatGPT, that threaten to displace its dominance in search.
+description: The New York Times recently proclaimed  A New Chat Bot Is a ‘Code Red’ for Google’s Search Business. It describes Google’s “dread” of interfaces based on the species of artificial intelligence called large language models (LLM), such as ChatGPT, that threaten to displace its dominance in search. <a href="https://hackernoon.com/is-google-doomed-only-the-paranoid-survive">Full article</a>
 
 ---

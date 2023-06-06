@@ -1,0 +1,15 @@
+---
+title: A reflective higher-order calculus
+subtitle: The Rho-calculus
+layout: default
+modal-id: 7
+date: 2005-12-22
+img: Replicator.jpeg
+thumbnail: ReplicatorThumbnail.jpeg
+alt: image-alt
+project-date: December 2005
+client: ETCS
+category: Technical Paper
+description: Here we present such a theory in the form of an asynchronous message-passing calculus built on a notion of quoting. Names are quoted processes, and as such represent the code of a process, a reification of the syntactic structure of the process as an object for process manipulation. Name- passing in this setting becomes a way of passing the code of a process as a message. In the presence of a dequote operation, turning the code of a process into a running instance, this machinery yields higher-order characteristics. <a href="https://www.sciencedirect.com/science/article/pii/S1571066105051893">Full article.</a>
+
+---

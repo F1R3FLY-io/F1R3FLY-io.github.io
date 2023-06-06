@@ -10,6 +10,6 @@ alt: image-alt
 project-date: August 2022
 client: Economic Standard
 category: Article
-description: The digital world has taken the mistaken position that blockchain’s primary value is that of cryptocurrency and DeFi, i.e. financial transactions.  One of the reasons for this is its Secret Origin Story, Bitcoin, which proposed to be a digital currency. And it persists due to the inability of the dominant incumbent blockchain networks, Bitcoin and Ethereum, to scale. In fact, the big money in digital networks lies in data, whether transmitting it or retrieving it, and advertising or subscriptions associated with providing data services.
+description: The digital world has taken the mistaken position that blockchain’s primary value is that of cryptocurrency and DeFi, i.e. financial transactions.  One of the reasons for this is its Secret Origin Story, Bitcoin, which proposed to be a digital currency. And it persists due to the inability of the dominant incumbent blockchain networks, Bitcoin and Ethereum, to scale. In fact, the big money in digital networks lies in data, whether transmitting it or retrieving it, and advertising or subscriptions associated with providing data services. <a href="https://theeconomicstandard.com/sharding-and-small-world-networks/">Full article.</a>
 
 ---

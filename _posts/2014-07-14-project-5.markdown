@@ -10,6 +10,6 @@ alt: image-alt
 project-date: February 2023
 client: HackerNoon
 category: Article
-description: In a recent conversation with Joscha Bach, one of this generation’s most original thinkers, he made the startling assertion that mobile concurrency is at odds with artificial general intelligence.
+description: In a recent conversation with Joscha Bach, one of this generation’s most original thinkers, he made the startling assertion that mobile concurrency is at odds with artificial general intelligence. <a href="https://hackernoon.com/the-case-for-rho-calculus-in-ai">Full article.</a>
 
 ---

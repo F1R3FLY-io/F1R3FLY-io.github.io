@@ -10,6 +10,6 @@ alt: image-alt
 project-date: December 2022
 client: HackerNoon
 category: Article
-description: If America is going to be relevant to the future of blockchain, our political leaders and policymakers must get crystal clear on the distinction between blockchain and crypto. Currently, they are confused.
+description: If America is going to be relevant to the future of blockchain, our political leaders and policymakers must get crystal clear on the distinction between blockchain and crypto. Currently, they are confused. <a href="https://hackernoon.com/will-the-real-slim-shady-please-stand-up">Full article.</a>
 
 ---

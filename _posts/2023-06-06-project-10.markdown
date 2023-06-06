@@ -1,0 +1,15 @@
+---
+title: Meta-MeTTa
+subtitle: An operational semantics for MeTTa
+layout: default
+modal-id: 10
+date: 2023-05-30
+img: arXivLogo.jpeg
+thumbnail: arXivLogoThumbnail.jpeg
+alt: image-alt
+project-date: May 2023
+client: arXiv
+category: Technical Paper
+description: We present an operational semantics for the AI language MeTTa and a correct-by-construction translation to the rho-calculus. <a href="https://arxiv.org/abs/2305.17218">Full article.</a>
+
+---

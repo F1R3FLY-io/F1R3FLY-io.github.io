@@ -10,6 +10,6 @@ alt: image-alt
 project-date: March 2023
 client: HackerNoon
 category: Article
-description: While Gary Gensler is busy cracking down on crypto projects, it is important to look at the details of how the law gets applied. There’s enough room for both Deity and the Devil to reside in the details. In particular, the details regarding utility tokens identifies a class of such tokens that cannot be considered securities according to the definitive Howey Test.
+description: While Gary Gensler is busy cracking down on crypto projects, it is important to look at the details of how the law gets applied. There’s enough room for both Deity and the Devil to reside in the details. In particular, the details regarding utility tokens identifies a class of such tokens that cannot be considered securities according to the definitive Howey Test. <a href="https://hackernoon.com/open-source-utility-tokens-are-not-securities-under-sec-jurisdiction">Full article.</a>
 
 ---

@@ -1,0 +1,15 @@
+---
+title: Contracts and Types
+subtitle: Smart Contracts before they were called smart contracts
+layout: default
+modal-id: 9
+date: 2003-10-04
+img: ACMLogo.jpeg
+thumbnail: ACMLogoThumbnail.jpeg
+alt: image-alt
+project-date: October 2003
+client: ETCS
+category: Technical Paper
+description: The issue of developing a more formal account of service descriptions and service contracts with a mobile process algebra, is discussed. Descriptions based on behavioral types can form the basis of a new kind of discovery mechanism, specifically one based on partial behavioral descriptions. This mechanism depends on the computation of compatibility of types being a terminating computation. HIgher level services, like the reputation services analogous to business rating services like Dun and Bradstreet, will be needed to guarantee end-to-end quality of service. <a href="https://dl.acm.org/doi/10.1145/944217.944236">Full article.</a>
+
+---
