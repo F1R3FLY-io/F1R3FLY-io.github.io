@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Concurrency for the People</title>
+    <description>F1R3FLY.io provides high throughput transaction servers and networks for Web3 and AI projects.</description>
+    <link>http://localhost:4000/f1r3fly-io/</link>
+    <atom:link href="http://localhost:4000/f1r3fly-io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 05 Jun 2023 17:36:39 -0700</pubDate>
+    <lastBuildDate>Mon, 05 Jun 2023 17:36:39 -0700</lastBuildDate>
+    <generator>Jekyll v4.3.2</generator>
+    
+      <item>
+        <title>Open Source Utility Tokens are not Securities</title>
+        <description>
+</description>
+        <pubDate>Mon, 06 Mar 2023 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/f1r3fly-io/article/2023/03/06/project-6/</link>
+        <guid isPermaLink="true">http://localhost:4000/f1r3fly-io/article/2023/03/06/project-6/</guid>
+        
+        
+        <category>Article</category>
+        
+      </item>
+    
+      <item>
+        <title>The Case for Rho-calculus in AI</title>
+        <description>
+</description>
+        <pubDate>Thu, 02 Feb 2023 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/f1r3fly-io/article/2023/02/02/project-5/</link>
+        <guid isPermaLink="true">http://localhost:4000/f1r3fly-io/article/2023/02/02/project-5/</guid>
+        
+        
+        <category>Article</category>
+        
+      </item>
+    
+      <item>
+        <title>Is Google Doomed</title>
+        <description>
+</description>
+        <pubDate>Tue, 17 Jan 2023 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/f1r3fly-io/article/2023/01/17/project-4/</link>
+        <guid isPermaLink="true">http://localhost:4000/f1r3fly-io/article/2023/01/17/project-4/</guid>
+        
+        
+        <category>Article</category>
+        
+      </item>
+    
+      <item>
+        <title>Will the Real Slim Shady Please Stand Up?</title>
+        <description>
+</description>
+        <pubDate>Tue, 13 Dec 2022 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/f1r3fly-io/article/2022/12/13/project-3/</link>
+        <guid isPermaLink="true">http://localhost:4000/f1r3fly-io/article/2022/12/13/project-3/</guid>
+        
+        
+        <category>Article</category>
+        
+      </item>
+    
+      <item>
+        <title>Sharding and Small World Networks</title>
+        <description>
+</description>
+        <pubDate>Tue, 02 Aug 2022 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/f1r3fly-io/article/2022/08/02/project-2/</link>
+        <guid isPermaLink="true">http://localhost:4000/f1r3fly-io/article/2022/08/02/project-2/</guid>
+        
+        
+        <category>Article</category>
+        
+      </item>
+    
+      <item>
+        <title>Meetings with Remarkable Tech</title>
+        <description>
+</description>
+        <pubDate>Fri, 24 Jun 2022 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/f1r3fly-io/article/2022/06/24/project-1/</link>
+        <guid isPermaLink="true">http://localhost:4000/f1r3fly-io/article/2022/06/24/project-1/</guid>
+        
+        
+        <category>Article</category>
+        
+      </item>
+    
+  </channel>
+</rss>

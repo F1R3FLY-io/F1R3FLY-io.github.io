@@ -1,0 +1,15 @@
+---
+title: Will the Real Slim Shady Please Stand Up?
+subtitle: Crypto is Persona Non Grata on the Hill
+layout: default
+modal-id: 3
+date: 2022-12-13
+img: SlimShadyHackerNoon.png
+thumbnail: SlimShadyHackerNoonThumbnail.png
+alt: image-alt
+project-date: December 2022
+client: HackerNoon
+category: Article
+description: If America is going to be relevant to the future of blockchain, our political leaders and policymakers must get crystal clear on the distinction between blockchain and crypto. Currently, they are confused.
+
+---

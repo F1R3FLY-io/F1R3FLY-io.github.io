@@ -1,0 +1,15 @@
+---
+title: The Case for Rho-calculus in AI
+subtitle: Consciousness as the Colonization of the Brain
+layout: default
+modal-id: 5
+date: 2023-02-02
+img: CaseForRhoInAI.png
+thumbnail: CaseForRhoInAIThumbnail.png
+alt: image-alt
+project-date: February 2023
+client: HackerNoon
+category: Article
+description: In a recent conversation with Joscha Bach, one of this generation’s most original thinkers, he made the startling assertion that mobile concurrency is at odds with artificial general intelligence.
+
+---

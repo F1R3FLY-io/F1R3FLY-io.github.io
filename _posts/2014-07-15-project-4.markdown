@@ -1,0 +1,15 @@
+---
+title: Is Google Doomed
+subtitle: Only the Paranoid Survive
+layout: default
+modal-id: 4
+date: 2023-01-17
+img: IsGoogleDoomed.png
+thumbnail: IsGoogleDoomedThumbnail.png
+alt: image-alt
+project-date: January 2023
+client: HackerNoon
+category: Article
+description: The New York Times recently proclaimed  A New Chat Bot Is a ‘Code Red’ for Google’s Search Business. It describes Google’s “dread” of interfaces based on the species of artificial intelligence called large language models (LLM), such as ChatGPT, that threaten to displace its dominance in search.
+
+---

@@ -1,0 +1,15 @@
+---
+title: Meetings with Remarkable Tech
+subtitle: Can RChain Solve Scaling Limitations in Blockchain?
+layout: default
+modal-id: 1
+date: 2022-06-24
+img: MeetingsWithRemarkableTech.png
+thumbnail: MeetingsWithRemarkableTechThumbnail.png
+alt: image-alt
+project-date: June 2022
+client: HackerNoon
+category: Article
+description: The tantalizing promise of the blockchain to restore the vision of the Internet as a decentralized global compute and storage infrastructure accessible by anyone from anywhere in the world has been stymied by blockchain’s scaling limitations. Specifically, existing chains get slower as nodes are added. It is not feasible to store consequential data assets directly on chain. And, if even assets could be stored on chain, no chains offer meaningful search capabilities. Until now. RChain is uniquely qualified to deliver on the promise of the decentralized internet.
+
+---

@@ -1,0 +1,15 @@
+---
+title: Open Source Utility Tokens are not Securities
+subtitle: How the West Might Be Lost
+layout: default
+modal-id: 6
+date: 2023-03-06
+img: OpenSourceUtilityTokens.png
+thumbnail: OpenSourceUtilityTokensThumbnail.png
+alt: image-alt
+project-date: March 2023
+client: HackerNoon
+category: Article
+description: While Gary Gensler is busy cracking down on crypto projects, it is important to look at the details of how the law gets applied. There’s enough room for both Deity and the Devil to reside in the details. In particular, the details regarding utility tokens identifies a class of such tokens that cannot be considered securities according to the definitive Howey Test.
+
+---
