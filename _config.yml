@@ -41,7 +41,7 @@ people:
     - title: twitter
       url: https://twitter.com/composedao
     - title: facebook
-      url: #
+      url: https://www.facebook.com/profile.php?id=100093193697201
     - title: linkedin
       url: https://www.linkedin.com/in/composedao/
 
@@ -51,8 +51,8 @@ social:
     url: http://twitter.com/f1r3flyceo
   - title: facebook
     url: https://www.facebook.com/profile.php?id=100093193697201
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
+#  - title: stack-overflow
+#    url: http://stackoverflow.com/questions/tagged/jekyll
   - title: github
     url: https://github.com/F1R3FLY-io
 
