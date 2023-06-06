@@ -1,6 +1,7 @@
 url: 'https://f1r3fly-io.github.io'
 #baseurl: '/f1r3fly-io'
 baseurl: ''
+logo: f1r3fly-io-logo-bg.jpg
 
 # Site settings
 title: Concurrency for the People
