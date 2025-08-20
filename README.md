@@ -1,209 +1,194 @@
-# F1R3FLY.io - High Throughput Transaction Servers
+# F1R3FLY.io Documentation Portal
 
-## 🚀 Organization Overview
+[![License: Apache 2.0](https://img.shields.io/github/license/saltstack/salt.png)](https://www.apache.org/licenses/LICENSE-2.0)
+[![Jekyll](https://img.shields.io/badge/Jekyll-4.x-red)](https://jekyllrb.com)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Active-green)](https://f1r3fly.io)
 
-F1R3FLY.io specializes in building **high-performance distributed systems** and **blockchain infrastructure** with a focus on scalability, formal verification, and innovative consensus mechanisms. Our technology stack spans from low-level systems programming to cutting-edge distributed computing paradigms.
+**Organization documentation site for F1R3FLY.io - Building high-performance distributed systems and blockchain infrastructure.**
 
-### 🎯 Core Mission
-Building the next generation of scalable, verifiable, and efficient transaction processing systems through:
-- **Multi-consensus blockchain platforms** with formal verification
-- **Process calculus-based programming** for concurrent systems  
-- **Hyper-dimensional computing** research and applications
-- **Developer-first tooling** and language infrastructure
+🌐 **Live Site**: [f1r3fly.io](https://f1r3fly.io)
 
-### 🌐 Website & Contact
-- **Website**: [f1r3fly.io](https://f1r3fly.io)
-- **Documentation**: This repository hosts our GitHub Pages site
-- **Contact**: f1r3fly.ceo@gmail.com
+## 🚦 F1R3FLY.io Organization Overview
 
+**Mission**: Building next-generation scalable, verifiable, and efficient transaction processing systems through distributed computing and blockchain infrastructure.
+
+### 🔥 Key Repositories
+
+#### Core Platform
+- **[f1r3fly](https://github.com/F1R3FLY-io/f1r3fly)** ⭐ - Main transaction server (Scala)
+- **[RNode](https://github.com/F1R3FLY-io/rnode)** - Multi-consensus blockchain platform (Scala/Rust)
+
+#### Language & Tools
+- **[rholang-rs](https://github.com/F1R3FLY-io/rholang-rs)** - Rholang interpreter (Rust)
+- **[rholang-language-server](https://github.com/F1R3FLY-io/rholang-language-server)** - IDE support (Rust)
+
+#### Applications
+- **[Embers](https://github.com/F1R3FLY-io/Embers)** - F1R3Sky wallets and agents (Rust)
+- **[embers-frontend](https://github.com/F1R3FLY-io/embers-frontend)** - Web interface (TypeScript)
+- **[f1r3sky](https://github.com/F1R3FLY-io/f1r3sky)** - Decentralized social platform (TypeScript)
+
+#### Research
+- **[rhoHDC](https://github.com/F1R3FLY-io/rhoHDC)** - Hyper-dimensional computing research
+- **[MeTTa](https://github.com/F1R3FLY-io/MeTTa)** - Meta-Type Talk language (Scala)
+
+📚 **[Complete Repository Guide](https://github.com/F1R3FLY-io/F1R3FLY-io.github.io/blob/main/docs/Organization_of_Repositories.md)** - View all projects with detailed descriptions
+
+## Quick Links
+
+- 📋 **[Project Template](https://github.com/F1R3FLY-io/F1R3FLY-io.github.io/blob/main/docs/Project_Template.md)** - Standard template for F1R3FLY.io repositories
+- 🤖 **[LLM Context](https://github.com/F1R3FLY-io/F1R3FLY-io.github.io/blob/main/CLAUDE.md)** - AI assistant instructions for this project
+- 🏢 **[GitHub Organization](https://github.com/F1R3FLY-io)** - View all repositories
+
+## 🚀 Quick Start
+
+```bash
+# Install dependencies
+bundle install
+
+# Start development server
+bundle exec jekyll serve
+
+# View site at http://localhost:4000
+```
+
+### With Nix/Direnv (Recommended)
+
+```bash
+# Auto-load development environment
+direnv allow
+
+# Start server with all dependencies configured
+bundle exec jekyll serve
+```
+
+## 📁 Project Structure
+
+```
+F1R3FLY-io.github.io/
+├── _posts/              # Portfolio projects and articles
+├── _includes/           # Reusable HTML components
+├── _layouts/            # Page templates
+├── _data/               # Site configuration data
+├── img/                 # Images and media
+├── css/                 # Stylesheets
+├── js/                  # JavaScript
+├── docs/                # Documentation
+│   ├── ORGANIZATION_REPOS.md   # Repository navigation
+│   └── Project_Template.md     # Repository template
+├── CLAUDE.md           # LLM assistant context
+└── README.md           # This file
+```
+
+## 🛠 Site Management
+
+### Adding Portfolio Items
+
+1. Create new post in `_posts/` with format: `YYYY-MM-DD-project-name.markdown`
+2. Add images to `/img/portfolio/`
+3. Use this front matter template:
+
+```yaml
 ---
-
-## 📚 Repository Navigation Guide
-
-### 🔥 Core Platform
-
-#### **[f1r3fly](https://github.com/F1R3FLY-io/f1r3fly)** ⭐ Main Repository
-- **Language**: Scala
-- **Description**: Core F1R3FLY platform implementation
-- **Status**: Active development with 12+ stars
-- **Purpose**: Primary transaction server and distributed systems infrastructure
-
-#### **[RNode](https://github.com/F1R3FLY-io/rnode)**
-- **Languages**: Scala, Rust
-- **Description**: Decentralized blockchain platform with four consensus mechanisms
-- **Features**: 
-  - Cordial Miners (energy-efficient)
-  - Casper CBC (BFT consensus)
-  - RGB Partially Synchronized State Machines
-  - Casanova (adaptive consensus)
-
-### 💻 Language & Compiler Infrastructure
-
-#### **[rholang-rs](https://github.com/F1R3FLY-io/rholang-rs)**
-- **Language**: Rust
-- **Description**: Rust implementation of the Rholang interpreter
-- **Purpose**: High-performance execution of concurrent smart contracts
-
-#### **[rholang-language-server](https://github.com/F1R3FLY-io/rholang-language-server)**
-- **Language**: Rust  
-- **Description**: LSP-based language server for Rholang
-- **Purpose**: IDE support with autocompletion, diagnostics, and navigation
-
-#### **[graph-to-rholang-parser](https://github.com/F1R3FLY-io/graph-to-rholang-parser)**
-- **Language**: Rust
-- **Description**: Visual graph to Rholang code converter
-- **Purpose**: Simplify smart contract development through visual programming
-
-### 🧠 Research & Innovation
-
-#### **[rhoHDC](https://github.com/F1R3FLY-io/rhoHDC)**
-- **Language**: Research/Theory
-- **Description**: Encoding rho-calculus into hyper-dimensional computing
-- **Purpose**: Explore novel computing paradigms for distributed systems
-
-#### **[MeTTa](https://github.com/F1R3FLY-io/MeTTa)** & **[MeTTa 2.0](https://github.com/F1R3FLY-io/MeTTa)**
-- **Language**: Scala
-- **Description**: Meta-Type Talk language implementation
-- **Purpose**: Advanced type systems and formal verification
-
-#### **[MeTTaCycleYellowPaper](https://github.com/F1R3FLY-io/MeTTaCycleYellowPaper)**
-- **Language**: TeX
-- **Description**: Technical specification for decentralized agentic platform
-- **Purpose**: Academic documentation of theoretical foundations
-
-### 🎨 Frontend & Applications
-
-#### **[Embers](https://github.com/F1R3FLY-io/Embers)**
-- **Language**: Rust
-- **Description**: F1R3Sky wallets and agents
-- **Purpose**: User-facing wallet infrastructure and autonomous agents
-
-#### **[embers-frontend](https://github.com/F1R3FLY-io/embers-frontend)**
-- **Language**: TypeScript
-- **Description**: Web frontend for Embers platform
-- **Purpose**: Modern web interface for wallet and agent interactions
-
-#### **[f1r3sky](https://github.com/F1R3FLY-io/f1r3sky)** & **[f1r3sky-client](https://github.com/F1R3FLY-io/f1r3sky-client)**
-- **Language**: TypeScript
-- **Description**: Decentralized social platform (BlueSky fork)
-- **Purpose**: Showcase distributed application capabilities
-
-#### **[lightning-bug](https://github.com/F1R3FLY-io/lightning-bug)**
-- **Language**: Clojure
-- **Description**: Modern, extensible, browser-based code editor
-- **Purpose**: Online development environment for smart contracts
-
-### 🛠 Developer Tools
-
-#### **[F1r3bu1ld3r](https://github.com/F1R3FLY-io/F1r3bu1ld3r)**
-- **Description**: Infrastructure visualization and building tool
-- **Purpose**: Simplify deployment and infrastructure management
-
-#### **[rchain-grpc-js](https://github.com/F1R3FLY-io/rchain-grpc-js)**
-- **Language**: JavaScript
-- **Description**: gRPC client library for RChain/RNode
-- **Purpose**: JavaScript SDK for blockchain interaction
-
-#### **[rho-js](https://github.com/F1R3FLY-io/rho-js)**
-- **Language**: JavaScript
-- **Description**: JavaScript implementation of Rholang utilities
-- **Purpose**: Browser and Node.js support for Rholang
-
-### 📖 Documentation & Resources
-
-#### **[F1R3FLY-io.github.io](https://github.com/F1R3FLY-io/F1R3FLY-io.github.io)** (This Repository)
-- **Technology**: Jekyll, GitHub Pages
-- **Description**: Organization documentation portal and website
-- **URL**: [f1r3fly.io](https://f1r3fly.io)
-
-#### **[awesome-rchain](https://github.com/F1R3FLY-io/awesome-rchain)**
-- **Description**: Curated list of RChain resources and projects
-- **Purpose**: Community resource hub
-
+layout: default
+modal-id: 1
+date: 2023-06-06
+img: project-image.png
+thumbnail: project-thumbnail.png
+alt: image-alt-text
+project-date: June 2023
+client: Client Name
+category: Development
+description: Project description
 ---
+```
 
-## 🚦 Getting Started
+### Updating Team Members
 
-### For Developers
-1. **Blockchain Development**: Start with [`f1r3fly`](https://github.com/F1R3FLY-io/f1r3fly) for core platform
-2. **Smart Contracts**: Use [`rholang-rs`](https://github.com/F1R3FLY-io/rholang-rs) and [`rholang-language-server`](https://github.com/F1R3FLY-io/rholang-language-server)
-3. **Frontend Development**: Check [`embers-frontend`](https://github.com/F1R3FLY-io/embers-frontend) for web applications
+Edit `_config.yml` people section:
 
-### For Researchers  
-1. **Formal Methods**: Explore [`MeTTa`](https://github.com/F1R3FLY-io/MeTTa) and yellow papers
-2. **Novel Computing**: Investigate [`rhoHDC`](https://github.com/F1R3FLY-io/rhoHDC) for hyper-dimensional computing
-3. **Consensus Mechanisms**: Study RNode's multi-consensus implementation
+```yaml
+people:
+- name: Team Member
+  pic: 1
+  position: Role
+  social:
+    - title: twitter
+      url: #
+```
 
-### For Users
-1. **Wallets**: Use [`Embers`](https://github.com/F1R3FLY-io/Embers) for asset management
-2. **Social Platform**: Try [`f1r3sky`](https://github.com/F1R3FLY-io/f1r3sky) for decentralized social
-3. **Documentation**: Visit [f1r3fly.io](https://f1r3fly.io) for guides
+### Image Guidelines
 
----
+- **Portfolio**: 650x350px (main), 400x289px (thumbnail)
+- **Team**: 225x225px square
+- **About**: 650x350px timeline
+- **Format**: JPEG for photos, PNG for graphics
 
-## 🏗 Technology Stack
+## 📚 Documentation-First Methodology
 
-### Languages
-- **Scala**: Core platform and type systems
-- **Rust**: Performance-critical components and tooling
-- **TypeScript/JavaScript**: Frontend applications and SDKs
-- **Clojure**: Development tools
-- **Rholang**: Smart contract language
+F1R3FLY.io follows a documentation-first approach. All features and changes should:
 
-### Infrastructure
-- **Blockchain**: Multi-consensus distributed ledger
-- **Networking**: P2P with TLS 1.3
-- **Storage**: LMDB, RSpace tuple spaces
-- **Development**: Nix/Direnv, Docker, GitHub Actions
+1. Start with documentation in `docs/`
+2. Follow the [Project Template](docs/Project_Template.md) structure
+3. Include clear requirements and specifications
+4. Update relevant documentation with code changes
 
----
+## 🧪 Testing
+
+```bash
+# Build site
+bundle exec jekyll build
+
+# Validate HTML
+bundle exec htmlproofer ./_site
+
+# Check configuration
+bundle exec jekyll doctor
+
+# Test with drafts
+bundle exec jekyll serve --drafts
+```
+
+## 🚢 Deployment
+
+The site automatically deploys to GitHub Pages when changes are pushed to `main`:
+
+1. Push to `main` branch
+2. GitHub Actions builds the site
+3. Deploys to [f1r3fly.io](https://f1r3fly.io)
+4. CNAME handles custom domain
 
 ## 🤝 Contributing
 
-We welcome contributions across all repositories! Please follow our documentation-first methodology:
+1. **Document First** - Start with requirements/specifications
+2. **Test Locally** - Use `bundle exec jekyll serve`
+3. **Optimize Assets** - Compress images before committing
+4. **Follow Standards** - Use conventional commits
+5. **Security** - Never commit sensitive data
 
-1. **Document First**: Start with requirements and specifications
-2. **Test Driven**: Write tests before implementation
-3. **Code Review**: All changes require review
-4. **Security First**: Follow security best practices
+## 📈 Performance Optimization
 
-### Development Setup
-Most repositories use:
-- **Nix/Direnv** for reproducible environments
-- **Docker** for containerized development
-- **GitHub Actions** for CI/CD
+- Compress images before upload
+- Use lazy loading for below-fold content
+- Leverage GitHub Pages CDN
+- Minify CSS/JS in production
 
-See individual repository READMEs for specific setup instructions.
+## 🔐 Security
 
----
+- Report vulnerabilities to f1r3fly.ceo@gmail.com
+- See `SECURITY.md` for policies
+- Regular dependency updates via Dependabot
 
-## 📜 License
+## 📄 License
 
-Most F1R3FLY.io projects are licensed under **Apache License 2.0**. Check individual repositories for specific licensing.
+This project is licensed under the Apache License 2.0. See [LICENSE](LICENSE) file for details.
 
----
+## 🔗 Resources
 
-## 🔗 Links
-
-- **Organization**: [github.com/F1R3FLY-io](https://github.com/F1R3FLY-io)
 - **Website**: [f1r3fly.io](https://f1r3fly.io)
+- **Organization**: [github.com/F1R3FLY-io](https://github.com/F1R3FLY-io)
 - **Email**: f1r3fly.ceo@gmail.com
-
----
-
-## 🎯 Roadmap
-
-### Current Focus
-- Multi-consensus blockchain platform stabilization
-- Rholang tooling and IDE support
-- Hyper-dimensional computing research
-- Developer experience improvements
-
-### Future Directions
-- Enhanced formal verification tools
-- Cross-chain interoperability
-- Quantum-resistant cryptography
-- Decentralized AI/ML platforms
+- **Jekyll Docs**: [jekyllrb.com](https://jekyllrb.com/docs/)
+- **Agency Theme**: [startbootstrap.com](https://startbootstrap.com/themes/agency/)
 
 ---
 
